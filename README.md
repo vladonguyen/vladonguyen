@@ -11,8 +11,7 @@
 ## A Human Being, also a JS student in Softuni.  
 
 - 🌱 Everyday I learn and get better in programming and many areas of my life;
-- 🥅 2021 Goals: Contributing to Open Source projects;
-- ⚡ Fun fact: I love to write code;
+- ⚡ Fun fact: I love to learn programming and write code;
 - 💬 Ask me about anything, I will do my best to help;
 - 📫 How to contact me: vladonguyen@gmail.com.
 
