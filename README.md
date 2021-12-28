@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-nguyen/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/vladonguyen)
 
-## A Human Being, also a JS student in Softuni.  
+## A Human Being, also a JS student in SoftUni.  
 
 - 🌱 Everyday I learn and get better in programming and many areas of my life;
 - ⚡ Fun fact: I love to learn programming and write code;
