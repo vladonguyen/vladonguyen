@@ -1,4 +1,4 @@
-### Hallo, I'm Vladimir Nguyen!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi, I'm Vladimir Nguyen!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 
 ## Connect with me:
