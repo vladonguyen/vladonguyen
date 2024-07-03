@@ -12,7 +12,7 @@
 I am a dedicated and passionate web developer, constantly striving to enhance my skills and knowledge in both programming and various aspects of life. 
 
 - 🌱 **Continuous Learner:** I am committed to daily self-improvement and growth.
-- 🥋 **My hobbies:** Besides coding, I a martial arts fan and like to practise BJJ,JKD and various martial arts.
+- 🥋 **Fun fact:** Although one of my hobby is marial arts, I am also а supporter of non-violence (ahimsa)
 - 💬 **Supportive:** Feel free to ask me anything; I am always here to help.
 - 📫 **Contact Me:** Reach out via email at [vladonguyen@gmail.com](mailto:vladonguyen@gmail.com).
 
