@@ -16,15 +16,6 @@ I am a dedicated and passionate web developer, constantly striving to enhance my
 - 💬 **Supportive:** Feel free to ask me anything; I am always here to help.
 - 📫 **Contact Me:** Reach out via email at [vladonguyen@gmail.com](mailto:vladonguyen@gmail.com).
 
-<p>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="180em" alt="Vladimir's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladonguyen&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladonguyen&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
-</p>
-
----
-
 Thank you for visiting my profile! Let's connect and collaborate.
 
 ---
